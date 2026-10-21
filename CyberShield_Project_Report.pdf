@@ -1,0 +1,1195 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Length 5257 >>
+stream
+BT
+/F2 28 Tf
+0.180 0.450 0.760 rg
+50 720 Td
+(CyberShield) Tj
+-50 -720 Td
+/F3 16 Tf
+0.300 0.300 0.300 rg
+50 684 Td
+(Cybersecurity Awareness Website) Tj
+-50 -684 Td
+/F2 14 Tf
+0.200 0.200 0.200 rg
+50 658 Td
+(Project Report) Tj
+-50 -658 Td
+/F1 10 Tf
+0.450 0.450 0.450 rg
+50 636 Td
+(Technology: Python + Streamlit) Tj
+-50 -636 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 604 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -604 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 585 Td
+(1. Project Overview) Tj
+-50 -585 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 561 Td
+(Field) Tj
+-50 -561 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 561 Td
+(Details) Tj
+-230 -561 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 548 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -548 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 535 Td
+(Project Name) Tj
+-50 -535 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 535 Td
+(CyberShield - Cybersecurity Awareness Website) Tj
+-230 -535 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 522 Td
+(Technology) Tj
+-50 -522 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 522 Td
+(Python 3.7+, Streamlit) Tj
+-230 -522 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 509 Td
+(Type) Tj
+-50 -509 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 509 Td
+(Single-Page Web Application) Tj
+-230 -509 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 496 Td
+(Difficulty Level) Tj
+-50 -496 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 496 Td
+(Beginner) Tj
+-230 -496 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 483 Td
+(Total Files) Tj
+-50 -483 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 483 Td
+(1  \(app.py\)) Tj
+-230 -483 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 470 Td
+(Lines of Code) Tj
+-50 -470 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 470 Td
+(~313) Tj
+-230 -470 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 457 Td
+(External Library) Tj
+-50 -457 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 457 Td
+(streamlit) Tj
+-230 -457 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 444 Td
+(Built-in Library) Tj
+-50 -444 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 444 Td
+(re \(regex\)) Tj
+-230 -444 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 425 Td
+(2. Objective) Tj
+-50 -425 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 401 Td
+(The goal of this project is to build a simple, interactive, single-page website that) Tj
+-50 -401 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 387 Td
+(educates users ? especially beginners ? about cybersecurity fundamentals. The website) Tj
+-50 -387 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 373 Td
+(provides awareness about common cyber threats, practical safety tips, a live password) Tj
+-50 -373 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 359 Td
+(strength checker, and an interactive quiz ? all within a single Python file using the) Tj
+-50 -359 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 345 Td
+(Streamlit framework.) Tj
+-50 -345 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 325 Td
+(3. Problem Statement) Tj
+-50 -325 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 301 Td
+(Cybercrime is growing rapidly worldwide. Many people ? especially non-technical users ?) Tj
+-50 -301 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 287 Td
+(remain unaware of the basic threats they face online and how to protect themselves. There) Tj
+-50 -287 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 273 Td
+(is a strong need for beginner-friendly educational tools that make cybersecurity concepts) Tj
+-50 -273 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 259 Td
+(easy to understand without requiring any technical background.) Tj
+-50 -259 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 239 Td
+(CyberShield addresses this problem by delivering cybersecurity awareness content in a) Tj
+-50 -239 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 225 Td
+(clean, interactive, and accessible web application.) Tj
+-50 -225 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 205 Td
+(4. Tech Stack) Tj
+-50 -205 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 181 Td
+(Layer) Tj
+-50 -181 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 181 Td
+(Technology) Tj
+-230 -181 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 181 Td
+(Purpose) Tj
+-410 -181 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 168 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -168 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 155 Td
+(Language) Tj
+-50 -155 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 155 Td
+(Python 3.7+) Tj
+-230 -155 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 155 Td
+(Core programming language) Tj
+-410 -155 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 142 Td
+(Web Framework) Tj
+-50 -142 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 142 Td
+(Streamlit) Tj
+-230 -142 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 142 Td
+(Build and serve the web UI) Tj
+-410 -142 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 129 Td
+(Regex Engine) Tj
+-50 -129 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 129 Td
+(re  \(built-in\)) Tj
+-230 -129 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 129 Td
+(Password pattern matching) Tj
+-410 -129 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 116 Td
+(Styling) Tj
+-50 -116 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 116 Td
+(Inline CSS) Tj
+-230 -116 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 116 Td
+(Custom dark theme and layout) Tj
+-410 -116 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 103 Td
+(State Mgmt) Tj
+-50 -103 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 103 Td
+(st.session_state) Tj
+-230 -103 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 103 Td
+(Persist quiz answers across reruns) Tj
+-410 -103 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 84 Td
+(5. Project Structure) Tj
+-50 -84 Td
+ET
+
+endstream
+endobj
+4 0 obj
+<< /Type /Page
+   /Parent 2 0 R
+   /MediaBox [0 0 595 842]
+   /Contents 3 0 R
+   /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> >>
+endobj
+5 0 obj
+<< /Length 6789 >>
+stream
+BT
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 792 Td
+(The entire application is kept in a single file for beginner friendliness:) Tj
+-50 -792 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 774 Td
+(?  app.py            ? Complete website source code \(single file\)) Tj
+-60 -774 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 760 Td
+(?  README.md         ? Setup and usage guide) Tj
+-60 -760 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 746 Td
+(?  CyberShield_Project_Report.pdf  ? This report) Tj
+-60 -746 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 726 Td
+(6. Features & Modules) Tj
+-50 -726 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 694 Td
+(6.1  Homepage Header) Tj
+-50 -694 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 675 Td
+(Displays the project name CyberShield with a shield icon and subtitle. Sets the browser) Tj
+-50 -675 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 661 Td
+(tab title and favicon via st.set_page_config.) Tj
+-50 -661 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 639 Td
+(6.2  Introduction to Cybersecurity) Tj
+-50 -639 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 620 Td
+(A styled card explaining what cybersecurity is in plain language, emphasising that) Tj
+-50 -620 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 606 Td
+(everyone ? not just IT professionals ? should understand basic cyber hygiene.) Tj
+-50 -606 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 584 Td
+(6.3  Common Cyber Threats) Tj
+-50 -584 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 565 Td
+(Six threats are displayed as styled badge cards with a blue left-border accent:) Tj
+-50 -565 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 547 Td
+(Phishing) Tj
+-50 -547 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 547 Td
+(Fake emails/sites trick users into revealing credentials) Tj
+-170 -547 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 534 Td
+(Malware) Tj
+-50 -534 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 534 Td
+(Malicious software steals data or damages devices) Tj
+-170 -534 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 521 Td
+(Hacking) Tj
+-50 -521 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 521 Td
+(Unauthorised access to systems or networks) Tj
+-170 -521 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 508 Td
+(Online Fraud) Tj
+-50 -508 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 508 Td
+(Scammers pose as banks or officials to steal money) Tj
+-170 -508 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 495 Td
+(Weak Passwords) Tj
+-50 -495 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 495 Td
+(Short passwords are cracked instantly by automated tools) Tj
+-170 -495 Td
+/F2 9 Tf
+0.180 0.450 0.760 rg
+50 482 Td
+(Public Wi-Fi) Tj
+-50 -482 Td
+/F1 9 Tf
+0.200 0.200 0.200 rg
+170 482 Td
+(Unsecured networks allow data interception) Tj
+-170 -482 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 461 Td
+(6.4  Basic Safety Tips) Tj
+-50 -461 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 442 Td
+(Eight actionable tips shown as green left-bordered cards:) Tj
+-50 -442 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 424 Td
+(?  Use passwords with 12+ characters \(mix uppercase, lowercase, digits, symbols\)) Tj
+-60 -424 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 410 Td
+(?  Never reuse passwords across different websites) Tj
+-60 -410 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 396 Td
+(?  Enable Two-Factor Authentication \(2FA\) wherever possible) Tj
+-60 -396 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 382 Td
+(?  Check for https:// before entering personal data on any website) Tj
+-60 -382 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 368 Td
+(?  Keep OS, browser, and apps updated to fix security vulnerabilities) Tj
+-60 -368 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 354 Td
+(?  Avoid clicking suspicious links or downloading unexpected attachments) Tj
+-60 -354 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 340 Td
+(?  Lock devices when not in use and set strong PINs) Tj
+-60 -340 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 326 Td
+(?  Back up important data regularly to an external drive or cloud) Tj
+-60 -326 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 304 Td
+(6.5  Password Strength Checker) Tj
+-50 -304 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 285 Td
+(The check_password_strength\(\) function evaluates passwords against 6 criteria using) Tj
+-50 -285 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 271 Td
+(Python's built-in re \(regex\) module:) Tj
+-50 -271 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 253 Td
+(Criteria) Tj
+-50 -253 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 253 Td
+(Method) Tj
+-230 -253 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 253 Td
+(Points) Tj
+-410 -253 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 240 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -240 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 227 Td
+(At least 8 chars) Tj
+-50 -227 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 227 Td
+(len\(pwd\) >= 8) Tj
+-230 -227 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 227 Td
+(+1) Tj
+-410 -227 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 214 Td
+(At least 12 chars) Tj
+-50 -214 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 214 Td
+(len\(pwd\) >= 12) Tj
+-230 -214 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 214 Td
+(+1) Tj
+-410 -214 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 201 Td
+(Uppercase letter) Tj
+-50 -201 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 201 Td
+(re.search\([A-Z], pwd\)) Tj
+-230 -201 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 201 Td
+(+1) Tj
+-410 -201 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 188 Td
+(Lowercase letter) Tj
+-50 -188 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 188 Td
+(re.search\([a-z], pwd\)) Tj
+-230 -188 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 188 Td
+(+1) Tj
+-410 -188 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 175 Td
+(Digit) Tj
+-50 -175 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 175 Td
+(re.search\(\\d, pwd\)) Tj
+-230 -175 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 175 Td
+(+1) Tj
+-410 -175 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 162 Td
+(Special character) Tj
+-50 -162 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 162 Td
+(re.search\([!@#$...], pwd\)) Tj
+-230 -162 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 162 Td
+(+1) Tj
+-410 -162 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 143 Td
+(Score) Tj
+-50 -143 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 143 Td
+(Strength) Tj
+-230 -143 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 143 Td
+(Bar Colour) Tj
+-410 -143 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 130 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -130 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 117 Td
+(0 - 2) Tj
+-50 -117 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 117 Td
+(Weak) Tj
+-230 -117 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 117 Td
+(#ef4444  \(Red\)) Tj
+-410 -117 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 104 Td
+(3 - 4) Tj
+-50 -104 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 104 Td
+(Medium) Tj
+-230 -104 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 104 Td
+(#f59e0b  \(Amber\)) Tj
+-410 -104 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 91 Td
+(5 - 6) Tj
+-50 -91 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 91 Td
+(Strong) Tj
+-230 -91 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 91 Td
+(#22c55e  \(Green\)) Tj
+-410 -91 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 74 Td
+(A visual progress bar renders the score as a percentage. Missing criteria are listed below) Tj
+-50 -74 Td
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page
+   /Parent 2 0 R
+   /MediaBox [0 0 595 842]
+   /Contents 5 0 R
+   /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> >>
+endobj
+7 0 obj
+<< /Length 5951 >>
+stream
+BT
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 792 Td
+(the bar. The password field uses type=password ? nothing is stored.) Tj
+-50 -792 Td
+/F2 12 Tf
+0.120 0.300 0.550 rg
+50 770 Td
+(6.6  Cybersecurity Quiz) Tj
+-50 -770 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 751 Td
+(An interactive 5-question multiple-choice quiz covering key cybersecurity concepts. Uses) Tj
+-50 -751 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 737 Td
+(st.form so all answers are collected before evaluation, and st.session_state to persist) Tj
+-50 -737 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 723 Td
+(selections across Streamlit reruns.) Tj
+-50 -723 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 705 Td
+(Q#) Tj
+-50 -705 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 705 Td
+(Topic) Tj
+-230 -705 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 705 Td
+(Correct Answer) Tj
+-410 -705 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 692 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -692 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 679 Td
+(Q1) Tj
+-50 -679 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 679 Td
+(Definition of phishing) Tj
+-230 -679 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 679 Td
+(A fake attempt to steal info) Tj
+-410 -679 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 666 Td
+(Q2) Tj
+-50 -666 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 666 Td
+(Strongest password example) Tj
+-230 -666 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 666 Td
+(T!9kR#2mLq@7) Tj
+-410 -666 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 653 Td
+(Q3) Tj
+-50 -653 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 653 Td
+(What 2FA stands for) Tj
+-230 -653 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 653 Td
+(Two-Factor Authentication) Tj
+-410 -653 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 640 Td
+(Q4) Tj
+-50 -640 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 640 Td
+(Secure URL indicator) Tj
+-230 -640 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 640 Td
+(https://) Tj
+-410 -640 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 627 Td
+(Q5) Tj
+-50 -627 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 627 Td
+(Protection against malware) Tj
+-230 -627 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+410 627 Td
+(Keep software & OS updated) Tj
+-410 -627 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 608 Td
+(Score) Tj
+-50 -608 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 608 Td
+(Result Message) Tj
+-230 -608 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 595 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -595 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 582 Td
+(100%) Tj
+-50 -582 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 582 Td
+(Perfect score! You're a cybersecurity pro!) Tj
+-230 -582 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 569 Td
+(60-99%) Tj
+-50 -569 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 569 Td
+(Good job! Review the topics you missed.) Tj
+-230 -569 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 556 Td
+(0-59%) Tj
+-50 -556 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 556 Td
+(Keep learning ? cybersecurity is worth mastering!) Tj
+-230 -556 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 537 Td
+(7. UI / Design Decisions) Tj
+-50 -537 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 513 Td
+(Decision) Tj
+-50 -513 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 513 Td
+(Rationale) Tj
+-230 -513 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 500 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -500 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 487 Td
+(Dark theme #0d1117) Tj
+-50 -487 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 487 Td
+(Reduces eye strain; modern GitHub-like look) Tj
+-230 -487 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 474 Td
+(Blue headings #58a6ff) Tj
+-50 -474 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 474 Td
+(High contrast, readable on dark background) Tj
+-230 -474 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 461 Td
+(Blue threat cards) Tj
+-50 -461 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 461 Td
+(Visually groups threats consistently) Tj
+-230 -461 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 448 Td
+(Green tip cards) Tj
+-50 -448 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 448 Td
+(Green conveys safety and positive action) Tj
+-230 -448 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 435 Td
+(Single-column layout) Tj
+-50 -435 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 435 Td
+(Mobile-friendly; keeps focus on content) Tj
+-230 -435 Td
+/F2 9 Tf
+0.100 0.100 0.100 rg
+50 422 Td
+(Inline CSS only) Tj
+-50 -422 Td
+/F1 9 Tf
+0.100 0.100 0.100 rg
+230 422 Td
+(No external files; beginner single-file approach) Tj
+-230 -422 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 403 Td
+(8. How to Run) Tj
+-50 -403 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 374 Td
+(Prerequisites) Tj
+-50 -374 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 358 Td
+(?  Python 3.7 or higher) Tj
+-60 -358 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 344 Td
+(?  pip \(Python package manager\)) Tj
+-60 -344 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 319 Td
+(Step 1 ? Install Streamlit) Tj
+-50 -319 Td
+/F3 10 Tf
+0.100 0.400 0.100 rg
+50 303 Td
+(    python -m pip install streamlit) Tj
+-50 -303 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 280 Td
+(Step 2 ? Run the application) Tj
+-50 -280 Td
+/F3 10 Tf
+0.100 0.400 0.100 rg
+50 264 Td
+(    streamlit run app.py) Tj
+-50 -264 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 241 Td
+(Step 3 ? Open in browser) Tj
+-50 -241 Td
+/F3 10 Tf
+0.100 0.400 0.100 rg
+50 225 Td
+(    http://localhost:8501) Tj
+-50 -225 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 205 Td
+(9. Limitations & Future Improvements) Tj
+-50 -205 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 176 Td
+(Current Limitations) Tj
+-50 -176 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 160 Td
+(?  No persistence ? quiz scores/passwords not saved between sessions) Tj
+-60 -160 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 146 Td
+(?  Static content ? threats and tips are hardcoded in app.py) Tj
+-60 -146 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 132 Td
+(?  No user accounts ? no login, personalisation, or history tracking) Tj
+-60 -132 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 118 Td
+(?  Only 5 quiz questions ? limited assessment scope) Tj
+-60 -118 Td
+/F2 10 Tf
+0.200 0.200 0.200 rg
+50 93 Td
+(Possible Future Improvements) Tj
+-50 -93 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 77 Td
+(?  Score History ? save quiz results to CSV or SQLite database) Tj
+-60 -77 Td
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page
+   /Parent 2 0 R
+   /MediaBox [0 0 595 842]
+   /Contents 7 0 R
+   /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> >>
+endobj
+9 0 obj
+<< /Length 2553 >>
+stream
+BT
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 792 Td
+(?  Larger Question Bank ? random question selection each attempt) Tj
+-60 -792 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 778 Td
+(?  URL Safety Checker ? detect suspicious URLs via pattern matching) Tj
+-60 -778 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 764 Td
+(?  Light / Dark Theme Toggle) Tj
+-60 -764 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 750 Td
+(?  Multi-language Support for non-English users) Tj
+-60 -750 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 736 Td
+(?  Phishing Email Simulator with real-looking examples) Tj
+-60 -736 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 716 Td
+(10. Learning Outcomes) Tj
+-50 -716 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 692 Td
+(By building and exploring this project, you will learn:) Tj
+-50 -692 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 674 Td
+(?  How to build a web application using Python and Streamlit) Tj
+-60 -674 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 660 Td
+(?  How to use regex \(re module\) for pattern matching) Tj
+-60 -660 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 646 Td
+(?  How to manage UI state with st.session_state) Tj
+-60 -646 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 632 Td
+(?  How to apply custom CSS inside a Streamlit app) Tj
+-60 -632 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 618 Td
+(?  Core concepts of cybersecurity awareness) Tj
+-60 -618 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 604 Td
+(?  Best practices for password security) Tj
+-60 -604 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+60 590 Td
+(?  How to structure a beginner-friendly Python project) Tj
+-60 -590 Td
+/F2 16 Tf
+0.180 0.450 0.760 rg
+50 570 Td
+(11. Conclusion) Tj
+-50 -570 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 546 Td
+(CyberShield is a lightweight, fully functional cybersecurity awareness web application) Tj
+-50 -546 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 532 Td
+(built entirely in Python using Streamlit. It demonstrates that even a single-file Python) Tj
+-50 -532 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 518 Td
+(application can deliver meaningful educational content in an engaging, interactive format.) Tj
+-50 -518 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 498 Td
+(The project is ideal for beginners learning Python web development and for anyone looking) Tj
+-50 -498 Td
+/F1 10 Tf
+0.000 0.000 0.000 rg
+50 484 Td
+(to raise cybersecurity awareness in their community or organisation.) Tj
+-50 -484 Td
+/F1 7 Tf
+0.600 0.600 0.600 rg
+50 460 Td
+(?????????????????????????????????????????????????????????????????????????????????????) Tj
+-50 -460 Td
+/F3 9 Tf
+0.450 0.450 0.450 rg
+50 443 Td
+(Shield  CyberShield  |  Stay safe. Stay informed.) Tj
+-50 -443 Td
+ET
+
+endstream
+endobj
+10 0 obj
+<< /Type /Page
+   /Parent 2 0 R
+   /MediaBox [0 0 595 842]
+   /Contents 9 0 R
+   /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000005443 00000 n 
+0000005761 00000 n 
+0000012602 00000 n 
+0000012920 00000 n 
+0000018923 00000 n 
+0000019241 00000 n 
+0000021846 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+22165
+%%EOF
